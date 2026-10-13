@@ -1,4 +1,3 @@
-[github_root_README.md](https://github.com/user-attachments/files/33373126/github_root_README.md)
 # Foxit Office Skill / MCP (fuxin-office)
 
 **福昕 Office 全家桶技能套件** —— 让 AI Agent（Claude / GPT / DeepSeek / Kimi / 智谱 / 通义 / WorkBuddy 等）通过本地 MCP 网关，直接读写用户本机的 Word / Excel / PowerPoint 文档。
