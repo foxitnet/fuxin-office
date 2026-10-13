@@ -1,8 +1,8 @@
-# Foxit Office Skill / MCP (fuxin-office)
+# 福昕 Office 助手 / Foxit Office Assistant (fuxin-office)
 
-**福昕 Office 全家桶技能套件** —— 让 AI Agent（Claude / GPT / DeepSeek / Kimi / 智谱 / 通义 / WorkBuddy 等）通过本地 MCP 网关，直接读写用户本机的 Word / Excel / PowerPoint 文档。
+**福昕 Office 助手**（又称：福昕 Office 全家桶技能，英文：Foxit Office Assistant / Foxit Office Skill，技术标识：`fuxin-office`）—— 让 AI Agent（Claude / GPT / DeepSeek / Kimi / 智谱 / 通义 / WorkBuddy 等）通过本地 MCP 网关，直接读写用户本机的 Word / Excel / PowerPoint 文档。
 
-> Foxit Office Skill Suite — enables AI agents to read and edit local Microsoft Office-compatible documents (Word / Excel / PowerPoint) via the Foxit local MCP gateway (`FuxinAiService`).
+> Foxit Office Assistant (aka Foxit Office Skill, `fuxin-office`) — enables AI agents to read and edit local documents (Word / Excel / PowerPoint) via the Foxit local MCP gateway (`FuxinAiService`).
 
 - **Skill ID**: `org-sd52yaru/fuxin-office`
 - **入口技能（唯一对外）**: `fuxin-office`（详见 [`fuxin-office/SKILL.md`](./fuxin-office/SKILL.md)）
@@ -47,6 +47,6 @@ AI Agent ──(Skill 编排层 fuxin-office)──> 本地 MCP 网关 FuxinAiSe
 
 ## Links / 相关链接
 
-- SkillHub: `@org-sd52yaru/fuxin-office`（<https://skillhub.cn）>
+- SkillHub: `@org-sd52yaru/fuxin-office`（<https://skillhub.cn/skills/fuxin-office>）
 - 已上线平台：腾讯 SkillHub、ClawHub、阿里魔塔、豆包
 - 授权：见 [`fuxin-office/LICENSE.md`](./fuxin-office/LICENSE.md) ｜ © 2026 Fuxin. All rights reserved.
