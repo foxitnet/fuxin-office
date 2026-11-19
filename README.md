@@ -7,7 +7,7 @@
 - **Skill ID**: `org-sd52yaru/fuxin-office`
 - **入口技能（唯一对外）**: `fuxin-office`（详见 [`fuxin-office/SKILL.md`](./fuxin-office/SKILL.md)）
 - **运行环境**: Windows + 福昕 Office（需 Agent Toolkit 插件）+ 本地网关 `FuxinAiService`
-- **版本**: 1.00.03.235
+- **版本**: 1.0.3 (build 1.00.03.242)
 
 ## What it does / 能力一览
 
